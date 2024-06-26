@@ -19,7 +19,7 @@ contract MyToken {
  
     // public variables here 
     string  public tokenName = ""; 
-    string public tokenNot  = "MC"; 
+    string public tokenNot  = "MM"; 
     uint256 public totalSupply = 0; 
  
  
